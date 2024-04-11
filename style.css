@@ -1,0 +1,20 @@
+section
+{
+    border: 5px solid black;
+    margin-top: 100px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-bottom: 100px;
+    background-color: aqua;
+}
+article
+{
+    border: 5px solid green;
+    margin: 100px 20px 60px 30px;
+}
+aside
+{
+    border: 5px solid red;
+    margin: auto;
+    width: 300px;
+}
